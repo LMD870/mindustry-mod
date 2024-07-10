@@ -2,7 +2,7 @@
 displayName: "Java Mod Example"
 
 #the internal name of your mod
-name: "example-java-mod"
+name: "QAQ-java-mod"
 
 #your name
 author: "You"
@@ -11,7 +11,7 @@ author: "You"
 main: "QAQ.Example"
 
 #the mod description as seen in the mod dialog
-description: "LMD"
+description: "实验"
 
 #the mod version
 version: 1.0
